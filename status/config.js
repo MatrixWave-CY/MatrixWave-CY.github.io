@@ -9,7 +9,7 @@ window.Config = {
     'm795502335-5fffac882cfcd571581124b8',
     'm795636677-e54904ff4e8b9afa2a2e4eaa',
     'm795636687-8db988c5ac1f2ed7e3d2b92a',
-    // 'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm795631032-0adaf39bf9edf4d7bfa7f935',
   ],
 
   // 日志天数
@@ -22,7 +22,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://stats.uptimerobot.com/mmPnkF1ANM'
+      url: 'https://status.org.cn/'
     },
     {
       text: 'GitHub',
@@ -30,7 +30,7 @@ window.Config = {
     },
     {
       text: 'Blog',
-      url: 'https://nex18.top/'
+      url: 'https://abo.xyz/'
     },
   ],
 };
